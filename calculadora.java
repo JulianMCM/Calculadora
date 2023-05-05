@@ -70,8 +70,8 @@ public class calculadora {
                     }
                 }
                 //Se pasa los String a Double para poder trabajar con ellos
-                System.out.println(mate1);
-                System.out.println(mate2);
+                //System.out.println(mate1);
+                //System.out.println(mate2);
                 n1 = Double.parseDouble(mate1);
                 n2 = Double.parseDouble(mate2);
                 //Segun la operacion previamente almacenada, se procede a resolver
